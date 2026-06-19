@@ -55,6 +55,9 @@ PCA Scatter Plot
 Models Accuracy Comparison
 ![Comparison](screenshots/model_comparison.png)
 
+Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ---
 
 🛠️ Tech Stack
