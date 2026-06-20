@@ -43,20 +43,15 @@ Customer churn is a critical business problem in the telecom industry. This proj
 
 > 🏆 **Best Model Accuracy: Logistic Regression (80.3%)**
 ---
+## 🖼️ Screenshots
 
-🖼️ Screenshots
+| Correlation Heatmap | PCA Scatter Plot |
+|---------------------|-----------------|
+| ![Heatmap](screenshots/heatmap.png) | ![PCA](screenshots/pca_plot.png) |
 
-Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
-
-PCA Scatter Plot
-![PCA](screenshots/pca_plot.png)
-
-Models Accuracy Comparison
-![Comparison](screenshots/model_comparison.png)
-
-Dashboard
-![Dashboard](screenshots/dashboard.png)
+| Models Comparison | Dashboard |
+|------------------|-----------|
+| ![Comparison](screenshots/model_comparison.png) | ![Dashboard](screenshots/dashboard.jpeg) |
 
 ---
 
